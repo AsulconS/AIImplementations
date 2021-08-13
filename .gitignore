@@ -5,3 +5,13 @@ NeuralNetworks/.vscode
 
 DecisionTree/build
 DecisionTree/.vscode
+
+KDay/.vscode
+KDay/build
+KDay/dataset/seg_pred
+KDay/dataset/seg_test
+KDay/dataset/seg_train
+KDay/dataset/_full
+KDay/dataset/_cropped
+KDay/*.dll
+KDay/*.exe
