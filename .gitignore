@@ -1,5 +1,3 @@
-old
-
 NeuralNetworks/build
 NeuralNetworks/.vscode
 
@@ -15,3 +13,6 @@ KDay/dataset/_full
 KDay/dataset/_cropped
 KDay/*.dll
 KDay/*.exe
+
+KerasTest/dataset
+KerasTest/*.rar

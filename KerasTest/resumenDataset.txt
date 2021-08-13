@@ -1,0 +1,8 @@
+El Dataset Utilizado fue Porto Seguro’s Safe Driver Prediction
+
+Este Dataset básicamente contiene una cantidad bastante grande de columnas que describen
+detalles técnicos de un auto. Nos permite predecir si el seguro de un auto cubriría un accidente.
+En el Dataset de entrenamiento dichas columnas se encuentran etiquetadas indicando el nombre de la
+característica de forma resumida (ind, reg, car, calc, etc). Además los datos BINARIOS incluyen el
+prefijo bin y los datos CATEGÓRICOS el prefijo cat. Los datos con -1 indican un "missing value" o
+dato faltante. Finalmente, la columna target indica si se logró crubrir por el seguro o no.
